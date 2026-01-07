@@ -1,8 +1,4 @@
 # ZenlessGrid – Public Issue Tracker
-
-**Description (for GitHub repo):**
-Public issue tracker for **ZenlessGrid**, a website that lets you look up and share **Zenless Zone Zero (ZZZ)** player profiles in a clean, modern UI. Use this repo to report bugs, suggest features, or share ideas to make ZenlessGrid better.
-
 ---
 
 ## What is ZenlessGrid?
